@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-#### My name is zzobie. I'm a Front end developer & Web Designer
+#### I'm a Front-end Developer.
 
 ##### Now
-- a
-- b
-- c
+- Front-end Developer
+- Web Designer
+- Now working..
 
 ##### Bio
 - 🔭 I’m currently working on ...
